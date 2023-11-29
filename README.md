@@ -45,6 +45,8 @@ Current chat ID: 1234567890
 12. Запустите программу main.py
 В случае успеха, Акира будет запущена и будет работать до тех пор, пока вы не завершите работу кода (Файла main.py)
 
+По всем вопросам пишите в обсуждение канала https://t.me/akiraproject
+
 # Akira - Remote control system [EN]
 Akira is a project that will allow its users to manage the events of your operating system even without access to a personal computer. Installation Instructions:
 
@@ -91,3 +93,5 @@ important!!! The copied ID must be in quotes! Example: https://imgur.com/a/p81N7
 11. Write your bot a message with any content (A link to your bot is issued by BotFather along with a token)
 12. Run the program main.py
 If successful, Akira will be launched and will run until you finish the code (File main.py )
+
+For all questions, write to the channel discussion https://t.me/akiraproject
